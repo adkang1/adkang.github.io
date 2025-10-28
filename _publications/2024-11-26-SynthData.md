@@ -4,7 +4,6 @@ collection: publications
 category: conferences
 permalink: /publication/2024-11-26-SynthData
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024-11-26
 venue: 'CogSci 2025'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/pdf/2411.17672'
