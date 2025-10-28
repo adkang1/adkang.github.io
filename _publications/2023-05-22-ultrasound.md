@@ -5,9 +5,9 @@ category: manuscripts
 permalink: /publication/2023-05-22-ultrasound
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2023-05-22
-venue: 'Journal 1'
+venue: 'Nature Biotechnology'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://www.nature.com/articles/s41587-023-01800-0'
+paperurl: 'https://xugroup.eng.ucsd.edu/wp-content/uploads/2024/03/91_NBT.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
