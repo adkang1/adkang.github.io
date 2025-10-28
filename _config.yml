@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : # "Earth"
-  employer         : "University of California, Los Angeles"
+  employer         : "UCLA"
   uri              : # URL
   email            : "adkang@g.ucla.edu" 
 
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/andrea-kang-b1b659143/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -222,9 +222,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
